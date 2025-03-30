@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Energy-calculator/static/css/main.6b6438aa.css",
+    "main.js": "/Energy-calculator/static/js/main.7aa1b32d.js",
+    "static/js/453.d9142145.chunk.js": "/Energy-calculator/static/js/453.d9142145.chunk.js",
+    "index.html": "/Energy-calculator/index.html",
+    "main.6b6438aa.css.map": "/Energy-calculator/static/css/main.6b6438aa.css.map",
+    "main.7aa1b32d.js.map": "/Energy-calculator/static/js/main.7aa1b32d.js.map",
+    "453.d9142145.chunk.js.map": "/Energy-calculator/static/js/453.d9142145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b6438aa.css",
+    "static/js/main.7aa1b32d.js"
+  ]
+}
